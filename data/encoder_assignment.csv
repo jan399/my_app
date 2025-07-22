@@ -1,0 +1,29 @@
+﻿column;encoder
+Q1_What is your age (# years)?;ord
+Q4_What is the highest level of formal education that you have attained or plan to attain within the next 2 years?;ord
+Q5_Select the title most similar to your current role;lab
+Q6_For how many years have you been writing code and/or programming?;ord
+Q8_What programming language would you recommend an aspiring data scientist to learn first?;ohe
+Q13_Approximately how many times have you used a TPU (tensor processing unit)?;ord
+Q15_For how many years have you used machine learning methods?;ord
+Q20_What is the size of the company where you are employed?;ord
+Q22_Does your current employer incorporate machine learning methods into their business?;ohe
+Q24_What is your current yearly compensation (approximate $USD)?;ord
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?;ohe
+Q32_Which of the following business intelligence tools do you use most often?;ohe
+Q7_No. of Regular used programming languages?;ord
+Q9_No. of Specialized IDE?;ord
+Q14_No. of DataViz Libs or Tools?;ord
+Q16_No. of ML Framworks?;ord
+Q17_No. of ML algorithms?;ord
+Q18_No. of Computer Vsion methods?;ord
+Q19_No. of NLP methods?;ord
+Q26_A No. of Current Cloud platforms?;ord
+Q27_A No. of Current Cloud Products?;ord
+Q28_A No. of Current ML products?;ord
+Q29_A No. of Big Data Tools?;ord
+Q31_A No. of BI Tools used?;ord
+Q33_A No. of Automted ML Tools?;ord
+Q34_A No. of Auto ML Tools?;ord
+Q35_A No. of ML Experiment Management?;ord
+Q37_No. of Learning Platforms?;ord

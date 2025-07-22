@@ -1,0 +1,73 @@
+;Mean |SHAP| (0);Mean |SHAP| (1)
+Q6_For how many years have you been writing code and/or programming?;0.31796426;0.31796426
+Q4_What is the highest level of formal education that you have attained or plan to attain within the next 2 years?;0.24609475;0.24609475
+Q7_No. of Regular used programming languages?;0.22235341;0.22235341
+Q15_For how many years have you used machine learning methods?;0.2076014;0.20760137
+Q14_No. of DataViz Libs or Tools?;0.1398281;0.1398281
+Q31_A No. of BI Tools used?;0.100945875;0.10094586
+Q1_What is your age (# years)?;0.095234066;0.095234066
+Q17_No. of ML algorithms?;0.08821088;0.08821089
+Q20_What is the size of the company where you are employed?;0.0837888;0.0837888
+Q24_What is your current yearly compensation (approximate $USD)?;0.07416047;0.074160464
+Q18_No. of Computer Vsion methods?;0.062926725;0.06292673
+Q22_Does your current employer incorporate machine learning methods into their business?_We use ML methods for generating insights (but do not put working models into production);0.06291917;0.06291917
+Q22_Does your current employer incorporate machine learning methods into their business?_We recently started using ML methods (i.e., models in production for less than 2 years);0.059324943;0.059324946
+Q37_No. of Learning Platforms?;0.057569962;0.057569962
+Q22_Does your current employer incorporate machine learning methods into their business?_No (we do not use ML methods);0.049148086;0.049148083
+Q16_No. of ML Framworks?;0.045552477;0.045552477
+Q27_A No. of Current Cloud Products?;0.041940242;0.041940242
+Q9_No. of Specialized IDE?;0.041892216;0.041892216
+Q29_A No. of Big Data Tools?;0.039032254;0.03903225
+Q22_Does your current employer incorporate machine learning methods into their business?_We have well established ML methods (i.e., models in production for more than 2 years);0.035170853;0.035170853
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_R;0.03499838;0.03499838
+Q13_Approximately how many times have you used a TPU (tensor processing unit)?;0.03443548;0.03443548
+Q19_No. of NLP methods?;0.030537793;0.030537795
+Q26_A No. of Current Cloud platforms?;0.027456455;0.027456453
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_SQL;0.026989935;0.026989942
+Q34_A No. of Auto ML Tools?;0.025155798;0.025155798
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_MySQL ;0.02312554;0.023125539
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_Python;0.016171921;0.016171921
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_MongoDB ;0.015945578;0.015945578
+Q35_A No. of ML Experiment Management?;0.015578333;0.015578334
+Q28_A No. of Current ML products?;0.01482549;0.01482549
+Q33_A No. of Automted ML Tools?;0.014512776;0.014512778
+Q22_Does your current employer incorporate machine learning methods into their business?_We are exploring ML methods (and may one day put a model into production);0.013981006;0.013981005
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_z_Not selected;0.009490691;0.009490692
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_PostgresSQL ;0.009027927;0.009027927
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Microsoft SQL Server ;0.0060436837;0.0060436837
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_C;0.0059861527;0.005986152
+Q22_Does your current employer incorporate machine learning methods into their business?_z_Not selected;0.0052210675;0.0052210675
+Q32_Which of the following business intelligence tools do you use most often?_Tableau;0.0051630926;0.005163093
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Oracle Database ;0.0038938033;0.0038938033
+Q32_Which of the following business intelligence tools do you use most often?_z_Not selected;0.0035987655;0.0035987657
+Q32_Which of the following business intelligence tools do you use most often?_Microsoft Power BI;0.0030875274;0.0030875274
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_z_Not selected;0.0029920049;0.0029920042
+Q32_Which of the following business intelligence tools do you use most often?_Google Data Studio;0.0016072702;0.0016072706
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_C++;0.0004808858;0.0004808858
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Google Cloud BigQuery ;0.0001895866;0.0001895866
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_Java;0.0;0.0
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_Javascript;0.0;0.0
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_Other;0.0;0.0
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_MATLAB;0.0;0.0
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_Julia;0.0;0.0
+Q8_What programming language would you recommend an aspiring data scientist to learn first?_Swift;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Amazon Redshift ;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_IBM Db2 ;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Google Cloud SQL ;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Amazon DynamoDB ;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Looker;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Einstein Analytics;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Domo;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Amazon QuickSight;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_SQLite ;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Snowflake ;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Microsoft Access ;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Other;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Microsoft Azure Data Lake Storage ;0.0;0.0
+Q30_Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often?_Google Cloud Firestore ;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_SAP Analytics Cloud ;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Salesforce;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Sisense ;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_TIBCO Spotfire;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Qlik;0.0;0.0
+Q32_Which of the following business intelligence tools do you use most often?_Other;0.0;0.0

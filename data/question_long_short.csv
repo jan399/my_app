@@ -1,0 +1,24 @@
+﻿question_long;question_short
+Q1_What is your age (# years)?;Q1: Your Age?
+Q4_What is the highest level of formal education that you have attained or plan to attain within the next 2 years?;Q4: Your Formal Education?
+Q6_For how many years have you been writing code and/or programming?;Q6: Your Code experience?
+Q13_Approximately how many times have you used a TPU (tensor processing unit)?;Q13: How many times used a TPU?
+Q15_For how many years have you used machine learning methods?;Q15: How many years of experience in Machine Learning?
+Q20_What is the size of the company where you are employed?;Q20: The size of your company?
+Q24_What is your current yearly compensation (approximate $USD)?;Q24: Your yearly compensation?
+Q7_No. of Regular used programming languages?;Q7: Your number of regular used programmung languages?
+Q9_No. of Specialized IDE?;Q9: Your number of specialised IDEs?
+Q14_No. of DataViz Libs or Tools?;Q14: Your number of specialised DataViz tools?
+Q16_No. of ML Framworks?;Q16: Your number of Machine Learning Frameworks?
+Q17_No. of ML algorithms?;Q17: Your number of Machine Learning algorithms?
+Q18_No. of Computer Vsion methods?;Q18: Your number of Comuter Vision methods?
+Q19_No. of NLP methods?;Q19: Your number of NLP methods?
+Q26_A No. of Current Cloud platforms?;Q26: Your number of current Cloud plattforms?
+Q27_A No. of Current Cloud Products?;Q27: Your number of current cloud products?
+Q28_A No. of Current ML products?;Q28: Your number of current Meachine Learning products?
+Q29_A No. of Big Data Tools?;Q29: Your number of Big Data Tools?
+Q31_A No. of BI Tools used?;Q31: Your number of BI tools?
+Q33_A No. of Automted ML Tools?;Q31: Your number of automated Machine Leaning tools?
+Q34_A No. of Auto ML Tools?;Q34: Your number of Auto ML Tools?
+Q35_A No. of ML Experiment Management?;Q35: Yout number of ML Experiment Managemens systems?
+Q37_No. of Learning Platforms?;Q31: Your number of Learning Platforms?
