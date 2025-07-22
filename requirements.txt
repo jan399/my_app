@@ -5,3 +5,4 @@ seaborn
 numpy
 scipy
 joblib
+scikit-learn
