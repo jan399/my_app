@@ -362,13 +362,32 @@ def build_tree(path: str, prefix: str = "") -> str:
 
 #---Display the File Struture---+
 
+def build_tree(path, prefix=""):
+    # Liste von Dateien und Ordnern, die ignoriert werden sollen:
+    ignore_names = {"desktop.ini", ".DS_Store", "__pycache__"}
+    ignore_dirs = {".git", "__pycache__"}
+
+    entries = [e for e in os.listdir(path) if e not in ignore_names]
+    entries.sort()
+    tree_str = ""
+    for i, name in enumerate(entries):
+        full_path = os.path.join(path, name)
+        is_last = (i == len(entries) - 1)
+        branch = "└── " if is_last else "├── "
+        if os.path.isdir(full_path):
+            if name in ignore_dirs:
+                continue
+            tree_str += f"{prefix}{branch}{name}\n"
+            extension = "    " if is_last else "│   "
+            tree_str += build_tree(full_path, prefix + extension)
+        else:
+            tree_str += f"{prefix}{branch}{name}\n"
+    return tree_str
+
 def show_project_tree():
-    # Determine the project root (two levels up from the utils/ folder)
+    # Passe ggf. die Basis-Pfad-Logik an deine Ordnerstruktur an!
     base_path = os.path.dirname(os.path.dirname(__file__))
     project_name = os.path.basename(base_path)
 
-    # Generate tree as a text string
     tree_output = f"{project_name}\n" + build_tree(base_path)
-
-    # Display the tree in Streamlit as a code block
     st.markdown(f"```plaintext\n{tree_output}```")
