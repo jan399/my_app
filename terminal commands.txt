@@ -1,6 +1,6 @@
 ###################################################################################################
 Start in Anaconda-Prompt (PowerShell):
-
+-------------------------------------
 
 streamlit run "g:/Meine Ablage/Colab Notebooks/Project Data Job/my_app/RoleRecommender-app.py"
 
@@ -10,9 +10,10 @@ cd "g:/Meine Ablage/Colab Notebooks/Project Data Job/my_app"
 streamlit run RoleRecommender-app.py
 
 ####################################################################################################
-Push to git
+Push to git:
+-----------
 
 git add .
-git commit -m "Alle Änderungen pushen"
+git commit -m "HIER STEHT DER INHALT"
 git push
 
