@@ -24,7 +24,7 @@ They combine multiple learners to create a stronger and more robust prediction:
 
 - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)  
 - [HistGradientBoosting](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html)  
-- [XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_api/sklearn.html)
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/tutorials/model.html)
 
 After hyperparameter tuning using [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html),  
 we selected **XGBoost** based on its performance and interpretability.

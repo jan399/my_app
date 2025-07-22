@@ -35,6 +35,8 @@ As soon as the app is deployed on Streamlit Cloud, you can try it out here:
 
 ## Directory structure
 my_app
+Directory structure
+my_app
 ├── data
 │   ├── categories.json
 │   ├── classification_report_L.json
@@ -69,15 +71,15 @@ my_app
 │   ├── 06_Download Center.py
 │   └── desktop.ini
 ├── utils
-│   ├── __pycache__
-│   │   ├── __init__.cpython-312.pyc
+│   ├── pycache
+│   │   ├── init.cpython-312.pyc
 │   │   ├── data_loader.cpython-312.pyc
 │   │   ├── desktop.ini
 │   │   ├── JanSimonLibrary.cpython-312.pyc
 │   │   ├── model_loader.cpython-312.pyc
 │   │   ├── statistic_functions.cpython-312.pyc
 │   │   └── visualizer.cpython-312.pyc
-│   ├── __init__.py
+│   ├── init.py
 │   ├── data_loader.py
 │   ├── desktop.ini
 │   ├── JanSimonLibrary.py
