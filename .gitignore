@@ -1,0 +1,16 @@
+# Python-Bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# data and models
+data/
+models/
+
+# System files
+.DS_Store
+desktop.ini
