@@ -8,7 +8,7 @@ import pickle
 
 
 
-# --- Load models ---x
+# --- Load models using joblib ---
 
 def load_model_L():
     """
@@ -16,11 +16,8 @@ def load_model_L():
     """
     base_path = os.path.dirname(os.path.dirname(__file__))
     model_path = os.path.join(base_path, "data", "pipe_xgb_L.pkl")
-
-    with open(model_path, "rb") as f:
-        model = pickle.load(f)
+    model = joblib.load(model_path)  # Load with joblib
     return model
-
 
 
 def load_model_S():
@@ -29,11 +26,8 @@ def load_model_S():
     """
     base_path = os.path.dirname(os.path.dirname(__file__))
     model_path = os.path.join(base_path, "data", "pipe_xgb_S.pkl")
-
-    with open(model_path, "rb") as f:
-        model = pickle.load(f)
+    model = joblib.load(model_path)  # Load with joblib
     return model
-
 
 
 # Load report for measuring model performance
