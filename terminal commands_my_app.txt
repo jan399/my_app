@@ -1,0 +1,12 @@
+###################################################################################################
+Start in Anaconda Prompt (PowerShell):
+-------------------------------------
+cd C:\Users\Simon\Documents\GitHub\RoleRecommender\final_report
+
+###################################################################################################
+Push to git:
+------------
+git status
+git add .
+git commit -m "my_push"
+git push
