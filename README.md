@@ -28,6 +28,6 @@ You can try it out here: [RoleRecommender Online](https://w9v3uossaz4zuzqyfzufvp
 
 ## Directory structure
 
-![Modules and Files](data/Modules%20and%20Files.png)
+![Modules and Files](data/1_Modules_and_Files.png)
 
 ## App Pages and Functionalities
