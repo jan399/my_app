@@ -1,12 +1,14 @@
 ###################################################################################################
 Start in Anaconda Prompt (PowerShell):
 -------------------------------------
-cd C:\Users\Simon\Documents\GitHub\RoleRecommender\final_report
+cd "C:\Users\Simon\Documents\GitHub\RoleRecommender\my_app"
+streamlit run RoleRecommender-app.py
+
 
 ###################################################################################################
 Push to git:
 ------------
 git status
 git add .
-git commit -m "my_push"
+git commit -m "README"
 git push
